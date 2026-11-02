@@ -1,0 +1,1 @@
+document.open();document.write('<h1>Red</h1><p>Loading movie app...</p>');document.close();
